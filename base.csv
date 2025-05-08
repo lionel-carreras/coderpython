@@ -1,0 +1,5 @@
+id,usuario,password,rol,nombre,apellido,edad,direccion,telefono,limite_credito
+1,admin,admin,admin,,,,,,
+2,lio,123,cliente,lionel,carreras,40.0,corrientes 3029,3415081959.0,1900000.0
+3,lionelm,123456.az,cliente,lionel,messi,38.0,calle falsa 123,456789.0,2000000.0
+4,albert,123456.az,cliente,alberto,mateiko,58.0,no se,21323213.0,200000.0

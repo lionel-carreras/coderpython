@@ -1,0 +1,5 @@
+id,nombre,marca,modelo,cantidad,descripcion,precio
+1,Notebook,Lenovo,E460,5,I7 13700H 16GB RAM 1TB SSD,1000000
+2,Notebook,HP,G410,5,I3 1115G4 8GB RAM 240 SSD,850000
+3,Tablet,Samsung,T720,0,"Tablet 10""",300000
+4,Smartphone,iPhone,iPhone12 Pro,5,iPhone12 Pro,1200000
